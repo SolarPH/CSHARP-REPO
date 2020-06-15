@@ -1,0 +1,7 @@
+C:\Users\jayson\Documents\Reservation Calc\CalcApp\CalcApp\bin\Debug\CalcApp.exe.config
+C:\Users\jayson\Documents\Reservation Calc\CalcApp\CalcApp\bin\Debug\CalcApp.exe
+C:\Users\jayson\Documents\Reservation Calc\CalcApp\CalcApp\bin\Debug\CalcApp.pdb
+C:\Users\jayson\Documents\Reservation Calc\CalcApp\CalcApp\obj\Debug\CalcApp.csprojAssemblyReference.cache
+C:\Users\jayson\Documents\Reservation Calc\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.CoreCompileInputs.cache
+C:\Users\jayson\Documents\Reservation Calc\CalcApp\CalcApp\obj\Debug\CalcApp.exe
+C:\Users\jayson\Documents\Reservation Calc\CalcApp\CalcApp\obj\Debug\CalcApp.pdb
