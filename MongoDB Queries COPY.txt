@@ -64,4 +64,4 @@ db.Playlist.deleteOne({song:{$eq: "Martyr Nyebera"}})
 
 Step 4. Find document with song value "Bulong"
 
-db.Playlist.find({song:{$eq: "Bulong}})
+db.Playlist.find({song:{$eq: "Bulong"}})
