@@ -15,32 +15,32 @@ db.Playlist.insertMany([
 "artist" : "CHNDTR",
 "album" : "Habang Umuulan",
 "released" : 2018
-}
+},
 {
 "song" : "Bulong",
 "artist" : "December Avenue",
 "album" : "Langit Mong Bughaw",
 "released" : 2019
-}
+},
 {
 "song" : "Bawat Kaluluwa",
 "artist" :"IV of Spades",
 "album" : "CLAPCLAPCLAP!",
 "released" : 2019,
 "songwriter" : []
-}
+},
 {
 "song" : "Kathang Isip",
 "artist" : "Ben&Ben",
 "album" : "Ben&Ben",
 "released" : 2017
-}
+},
 {
 "song" : "Director's Cut",
 "artist" : "Kamikazee",
 "album" : "Maharot",
 "released" : 2006
-}
+},
 {
 "song" : "Martyr Nyebera",
 "artist" : "Kamikazee",
