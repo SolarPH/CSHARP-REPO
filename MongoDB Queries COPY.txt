@@ -8,47 +8,7 @@ db.createCollection("Playlist")
 
 Step 1.3: Insert Data
 
-db.Playlist.insertMany([
-
-{
-"song" : "Babalik Ka Pa Ba",
-"artist" : "CHNDTR",
-"album" : "Habang Umuulan",
-"released" : 2018
-},
-{
-"song" : "Bulong",
-"artist" : "December Avenue",
-"album" : "Langit Mong Bughaw",
-"released" : 2019
-},
-{
-"song" : "Bawat Kaluluwa",
-"artist" :"IV of Spades",
-"album" : "CLAPCLAPCLAP!",
-"released" : 2019,
-"songwriter" : []
-},
-{
-"song" : "Kathang Isip",
-"artist" : "Ben&Ben",
-"album" : "Ben&Ben",
-"released" : 2017
-},
-{
-"song" : "Director's Cut",
-"artist" : "Kamikazee",
-"album" : "Maharot",
-"released" : 2006
-},
-{
-"song" : "Martyr Nyebera",
-"artist" : "Kamikazee",
-"album" : "Maharot",
-"released" : 2006
-}
-
-])
+db.Playlist.insertMany([ {"song" : "Babalik Ka Pa Ba","artist" : "CHNDTR","album" : "Habang Umuulan","released" : 2018},{"song" : "Bulong","artist" : "December Avenue","album" : "Langit Mong Bughaw","released" : 2019},{"song" : "Bawat Kaluluwa","artist" :"IV of Spades","album" : "CLAPCLAPCLAP!","released" : 2019,"songwriter" : []},{"song" : "Kathang Isip","artist" : "Ben&Ben","album" : "Ben&Ben","released" : 2017},{"song" : "Director's Cut","artist" : "Kamikazee","album" : "Maharot","released" : 2006},{"song" : "Martyr Nyebera","artist" : "Kamikazee","album" : "Maharot","released" : 2006} ])
 
 Step 2.1: Find songs released in 2006 with pretty()
 
